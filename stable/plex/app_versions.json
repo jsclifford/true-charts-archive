@@ -3,7 +3,7 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/plex/19.1.6",
+        "location": "/home/runner/_work/catalog/catalog/stable/plex/19.1.7",
         "last_update": "2024-08-29 12:35:14",
         "required_features": [
             "definitions/timezone",
