@@ -1,17 +1,17 @@
 {
-    "7.1.9.1": {
+    "7.1.10": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/tubesync/7.1.9.1",
+        "location": "/home/runner/_work/catalog/catalog/stable/tubesync/7.1.10",
         "last_update": "2024-08-29 12:35:14",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
             "definitions/certificate"
         ],
-        "human_version": "latest_7.1.9.1",
-        "version": "7.1.9.1",
+        "human_version": "latest_7.1.10",
+        "version": "7.1.10",
         "chart_metadata": {
             "annotations": {
                 "truecharts.org/category": "Downloaders",
@@ -58,7 +58,7 @@
                 "https://registry.hub.docker.com/r/ghcr.io/meeb/tubesync"
             ],
             "type": "application",
-            "version": "7.1.9.1"
+            "version": "7.1.10"
         },
         "app_metadata": null,
         "schema": {
