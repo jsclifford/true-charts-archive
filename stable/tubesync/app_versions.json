@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/_work/catalog/catalog/stable/tubesync/7.1.10",
-        "last_update": "2024-08-29 12:35:14",
+        "last_update": "2024-11-29 12:35:14",
         "required_features": [
             "definitions/interface",
             "normalize/interfaceConfiguration",
